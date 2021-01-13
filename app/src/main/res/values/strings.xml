@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Activity LifeCycle and Fragments</string>
+    <string name="fragments">Fragments</string>
+    <string name="orientation">Current Orientation</string>
+    <string name="orientationCount">Number of Orientation changes: %1$d</string>
+    <string name="status">Status</string>
+    <string name="fragment1">Fragment One</string>
+    <string name="fragment2">Fragment Two</string>
+    <string name="fragmentTextview1">Fragment One</string>
+    <string name="fragmentTextview2">Fragment Two</string>
+    <string name="backButton">Remove Fragment</string>
+    <string name="currentPositionStack">Current Position in Stack</string>
+    <string name="start">Start</string>
+    <string name="resume">Resume</string>
+    <string name="activityLifeCycle">Activity Life Cycle</string>
+</resources>
